@@ -1,8 +1,6 @@
-Rope Data Structure in C
-
 Copyright @Profeanu Ioana & Iordache Madalina Gabriela
--------------------------------------------------------------------------------
-                            ROPE DATA STRUCTURE
+
+Rope Data Structure in C
 -------------------------------------------------------------------------------
 Implementation:
     A rope is a data structure composed of smaller strings that are used to 
